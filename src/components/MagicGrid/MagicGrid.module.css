@@ -1,0 +1,12 @@
+.MagicGrid {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.MagicGrid__row {
+    display: flex;
+    flex-direction: row;
+    margin: 1px 0;
+}

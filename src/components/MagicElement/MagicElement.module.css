@@ -1,0 +1,12 @@
+.MagicElement {
+    background-color: #ffe;
+    border: 1px #999 solid;
+    border-radius: 3px;
+    height: 16px;
+    margin: 0 1px;
+    width: 16px;
+}
+
+.MagicElement_filled {
+    background-color: #333;
+}
