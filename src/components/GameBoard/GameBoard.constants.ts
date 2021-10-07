@@ -1,1 +1,1 @@
-export const DEFAULT_TICK = 100;
+export const DEFAULT_TICK = 200;
