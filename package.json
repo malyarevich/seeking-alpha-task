@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build -p",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "terser-brunch": "^4.1.0"
   }
 }
