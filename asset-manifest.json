@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/seeking-alpha-task/static/css/main.8b9295e3.chunk.css",
-    "main.js": "/seeking-alpha-task/static/js/main.73cc4844.chunk.js",
-    "main.js.map": "/seeking-alpha-task/static/js/main.73cc4844.chunk.js.map",
+    "main.js": "/seeking-alpha-task/static/js/main.249e629d.chunk.js",
+    "main.js.map": "/seeking-alpha-task/static/js/main.249e629d.chunk.js.map",
     "runtime-main.js": "/seeking-alpha-task/static/js/runtime-main.21702128.js",
     "runtime-main.js.map": "/seeking-alpha-task/static/js/runtime-main.21702128.js.map",
     "static/js/2.a5566ca3.chunk.js": "/seeking-alpha-task/static/js/2.a5566ca3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.21702128.js",
     "static/js/2.a5566ca3.chunk.js",
     "static/css/main.8b9295e3.chunk.css",
-    "static/js/main.73cc4844.chunk.js"
+    "static/js/main.249e629d.chunk.js"
   ]
 }
