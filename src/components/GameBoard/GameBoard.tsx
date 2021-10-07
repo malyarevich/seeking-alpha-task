@@ -9,7 +9,7 @@ import styles from './GameBoard.module.css';
 import { GameBoardService } from './GameBoard.service';
 
 const GameBoard = (props: IMagicGridProps<IMagicElement>) => {
-  const [data, setData] = useState(props.data);
+  const [data, setData] = useState<IMagicElement[][]>(props.data);
 
   useEffect(() => {
     const intervalIndex = setInterval(() => {
